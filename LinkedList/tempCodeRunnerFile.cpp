@@ -1,0 +1,1 @@
+next2 = curr2 -> next;
