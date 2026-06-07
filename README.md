@@ -329,6 +329,20 @@ If you found this repository helpful, please give it a ⭐ star!
 
 ---
 
-**Last Updated**: 2026  
+## ✍️ Author
+
+Created by Shayan Ghosh — Owner.  
+B.Tech Student, Abacus Institute of Engineering & Management (AIEM).
+
+---
+
+## 🔄 Recent Updates
+
+- Added: [Graphs/Dijkstrashortestpath.cpp](Graphs/Dijkstrashortestpath.cpp) — Dijkstra's Shortest Path implementation.
+- Note: Some code files have been newly added across the repository.
+
+---
+
+**Last Updated**: 2026-06-07  
 **Language**: C++  
 **Level**: Beginner to Advanced
