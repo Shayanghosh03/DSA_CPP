@@ -241,6 +241,38 @@ Trie-based problems and applications.
 
 ---
 
+### 🧠 14. Dynamic Programming
+Problems solved using memoization, tabulation, and space optimization.
+
+| Problem | File |
+|---------|------|
+| Count Ways to Reach the N-th Stairs | `Dynamic Programming/CountWaysToReachTheN-thStairs.cpp` |
+| Minimum Cost Climbing Stairs | `Dynamic Programming/MinCostClimbingStairs.cpp` |
+| Minimum Elements | `Dynamic Programming/MinimumElements.cpp` |
+| Nth Fibonacci Number (Bottom-Up DP) | `Dynamic Programming/NthFibonacciNumberBottomUpDP.cpp` |
+| Nth Fibonacci Number (Space Optimization) | `Dynamic Programming/NthFibonacciNumberSpaceOptimization.cpp` |
+| Nth Fibonacci Number (Top-Down DP) | `Dynamic Programming/NthFibonacciNumberTopDownDP.cpp` |
+
+---
+
+### 🧰 15. STL C++
+C++ Standard Template Library examples and usage patterns.
+
+| Problem | File |
+|---------|------|
+| Algorithm | `STL_C++/algorithm.cpp` |
+| Array STL | `STL_C++/arraySTL.cpp` |
+| Deque STL | `STL_C++/deque.cpp` |
+| List STL | `STL_C++/listSTL.cpp` |
+| Map STL | `STL_C++/mapSTL.cpp` |
+| Priority Queue STL | `STL_C++/priorityQueueSTL.cpp` |
+| Queue STL | `STL_C++/queueSTL.cpp` |
+| Set STL | `STL_C++/setSTL.cpp` |
+| Stack STL | `STL_C++/stackSTL.cpp` |
+| Vector STL | `STL_C++/vectorSTL.cpp` |
+
+---
+
 ## 🎯 Problem Statistics
 
 | Category | Count |
@@ -250,6 +282,7 @@ Trie-based problems and applications.
 | Binary Search Trees | 11 |
 | Binary Trees | 20 |
 | Bit Manipulation | 3 |
+| Dynamic Programming | 6 |
 | Graphs | 13 |
 | HashMap | 2 |
 | Heap | 12 |
@@ -257,8 +290,9 @@ Trie-based problems and applications.
 | Queues | 12 |
 | Stacks | 5 |
 | Strings | 4 |
+| STL C++ | 10 |
 | Trie | 3 |
-| **Total** | **108** |
+| **Total** | **143** |
 
 ---
 
