@@ -218,7 +218,19 @@ Stack implementations and applications.
 
 ---
 
-### 🌳 12. Trie Data Structure
+### 📝 12. String
+String manipulation, pattern matching, and text processing.
+
+| Problem | File |
+|---------|------|
+| Permutation in String | `String/PermutationinString.cpp` |
+| Remove All Occurrences of a Substring | `String/RemoveAllOccurrencesofaSubstring.cpp` |
+| String Compression | `String/StringCompression.cpp` |
+| Valid Palindrome | `String/ValidPalindrome.cpp` |
+
+---
+
+### 🌳 13. Trie Data Structure
 Trie-based problems and applications.
 
 | Problem | File |
@@ -244,8 +256,9 @@ Trie-based problems and applications.
 | Linked Lists | 19 |
 | Queues | 12 |
 | Stacks | 5 |
+| Strings | 4 |
 | Trie | 3 |
-| **Total** | **104** |
+| **Total** | **108** |
 
 ---
 
@@ -285,7 +298,7 @@ g++ -o output_file filename.cpp
 
 ## 📖 Key Concepts Covered
 
-✅ **Data Structures**: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps, HashMaps, Tries  
+✅ **Data Structures**: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps, HashMaps, Tries, Strings  
 ✅ **Algorithms**: Sorting, Searching, DFS, BFS, Dynamic Programming, Backtracking, Greedy  
 ✅ **Tree Traversals**: Inorder, Preorder, Postorder, Level Order, Boundary, Zigzag  
 ✅ **Graph Algorithms**: DFS, BFS, Dijkstra, Topological Sort, Cycle Detection  
