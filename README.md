@@ -15,6 +15,25 @@ Essential array manipulation and problem-solving techniques.
 
 | Problem | File |
 |---------|------|
+| Two Sum | `Array/2Sum.cpp` |
+| Three Sum | `Array/3Sum.cpp` |
+| Four Sum | `Array/4Sum.cpp` |
+| Container With Most Water | `Array/ContainerWithMostWater.cpp` |
+| Find the Duplicate Number | `Array/FindtheDuplicateNumber.cpp` |
+| Kadane's Algorithm | `Array/Kadane'sAlgorithm.cpp` |
+| Majority Element | `Array/MajorityElement.cpp` |
+| Merge Two Sorted Arrays Without Extra Space | `Array/Merge2sortedarraywithoutextraspace.cpp` |
+| Next Permutation | `Array/NextPermutation.cpp` |
+| Pow(x^n) | `Array/Pow(x^n).cpp` |
+| Product of Array Except Self | `Array/ProductofArrayExceptSelf.cpp` |
+| Repeat and Missing Number | `Array/Repeat&missingnumber.cpp` |
+| Search a 2D Matrix II | `Array/SearchA2DMatrix _II.cpp` |
+| Search a 2D Matrix | `Array/SearchA2DMatrix.cpp` |
+| Single Number | `Array/SingleNumber.cpp` |
+| Sort Colors | `Array/SortColors.cpp` |
+| Spiral Matrix | `Array/SpiralMatrix.cpp` |
+| Stock Buy and Sell | `Array/StockBuy&Sell.cpp` |
+| Subarray Sum Equals K | `Array/SubarraySumEqualsK.cpp` |
 | Trapping Rain Water | `Array/Traping_Rain_Water.cpp` |
 
 ---
@@ -214,7 +233,7 @@ Trie-based problems and applications.
 
 | Category | Count |
 |----------|-------|
-| Arrays | 1 |
+| Arrays | 20 |
 | Backtracking | 3 |
 | Binary Search Trees | 11 |
 | Binary Trees | 20 |
